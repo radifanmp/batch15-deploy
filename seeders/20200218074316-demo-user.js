@@ -16,10 +16,14 @@ module.exports = {
     name: 'John Doe',
     email: 'johnDoe@gmail.com',
     password: 'kepo',
+    createdAt: new Date(),
+    updatedAt: new Date(),
   }, {
     name : 'Suhartono',
     email : 'suhartono@gmail.com',
     password : 'kepo',
+    createdAt: new Date(),
+    updatedAt: new Date(),
   }]);
   },
 
